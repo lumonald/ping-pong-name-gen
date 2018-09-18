@@ -28,14 +28,11 @@ export default {
     get_generated_name(){
       var random_1=this.get_random_word(this.first_words);
       var random_2=this.get_random_word(this.second_words);
-
       return random_1 + ' ' + random_2;
     },
     set_generated_name(){
-
       var result_target=document.getElementById('result_text');
       result_target.innerHTML= this.get_generated_name();
-      
     }
   } 
 }

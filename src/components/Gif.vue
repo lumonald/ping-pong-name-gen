@@ -10,5 +10,3 @@ export default {
   name: 'Gif',
 }
 </script>
-
-<style></style>
