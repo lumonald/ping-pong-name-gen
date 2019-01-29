@@ -19,4 +19,3 @@ To run locally:
 
 ## TODO
 * Connect the VueJS frontend to a database backend technology, so that we can store the random words, just for proof of concept.
-* Dockerize the app, for portability.
